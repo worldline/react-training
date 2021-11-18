@@ -6,6 +6,10 @@
     {
       "name": "Yassine Bennabas",
       "email": "yassine.bennabas@worldline.com"
+    },
+    {
+      "name": "François Roget",
+      "email": "francois.roget@worldline.com"
     }
   ],
   "repository": "https://github.com/worldline/react-training",
@@ -21,5 +25,6 @@
   },
   "dependencies": {
     "vuepress-plugin-global-toc": "^1.1.0"
+
   }
 }
